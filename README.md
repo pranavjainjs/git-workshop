@@ -8,7 +8,7 @@ Pranav
 210101078
 CSE
 
-Thisn has to be different from the previous repo. 
+This has to be different from the previous repo. 
 Hey, Pranav here.  
 I love cats, dogs, houses, buildings, libraries, books, gardens, trees,
 roses, and peanut butter
